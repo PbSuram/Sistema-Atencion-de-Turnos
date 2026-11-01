@@ -1,0 +1,8 @@
+# Compilados de Maven
+target/
+
+# Archivos de sistema y del editor
+.DS_Store
+.vscode/
+.idea/
+*.class
