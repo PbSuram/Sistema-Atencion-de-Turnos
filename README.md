@@ -8,9 +8,9 @@ Curso: Programación II
 
 | Nombre | Carné | Módulo |
 |---|---|---|
-| Brandon Alexander Gomez Escobar | _(carné)_ | Clientes y BST |
-| Tania Lisbeth Cortez Perez | _(carné)_ | Turnos y cola enlazada |
-| Juan Pablo Suram Xol | _(carné)_ | Servicios, persistencia y reportes |
+| Brandon Alexander Gomez Escobar | 3190-25-15022 | Clientes y BST |
+| Tania Lisbeth Cortez Perez | 9989-25-6467 | Turnos y cola enlazada |
+| Juan Pablo Suram Xol | 0902-22-1013 | Servicios, persistencia y reportes |
 
 ## Requisitos
 
